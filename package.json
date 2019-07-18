@@ -1,6 +1,6 @@
 {
     "name": "polyfill-fromentries",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "微信公众号工具类",
     "main": "index.js",
     "scripts": {
